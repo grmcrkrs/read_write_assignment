@@ -1,0 +1,3 @@
+B:/CLionProjects/read_write_assignment/cmake-build-debug/CMakeFiles/read_write_assignment.dir
+B:/CLionProjects/read_write_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLionProjects/read_write_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
