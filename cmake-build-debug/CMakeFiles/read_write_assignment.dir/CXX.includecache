@@ -9,10 +9,14 @@
 B:/CLionProjects/read_write_assignment/main.cpp
 iostream
 -
+string
+-
 fstream
 -
 vector
 -
 sstream
+-
+iomanip
 -
 
